@@ -186,6 +186,7 @@ declare -a THEMES=(
   'guezwhoz.sh'
   'hardcore.sh'
   'harper.sh'
+  'hellmers.sh'
   'hemisu-dark.sh'
   'hemisu-light.sh'
   'highway.sh'
